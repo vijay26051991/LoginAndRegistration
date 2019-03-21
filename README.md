@@ -33,5 +33,6 @@ Enhancements:
  ***
  Links for reference:
  ----------------------
- [Mitigating rainbow table with salt](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
- [Best way to store the user password in the database](https://stackoverflow.com/questions/1054022/best-way-to-store-password-in-database).
+ 1. [Mitigating rainbow table with salt](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/).
+ 2. [Best way to store the user password in the database](https://stackoverflow.com/questions/1054022/best-way-to-store-password-in-database).
+ 3. [How to store the password](https://www.geeksforgeeks.org/store-password-database/).
