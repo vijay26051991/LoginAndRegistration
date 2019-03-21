@@ -3,9 +3,16 @@
 There are two forms in the web interface.
     1. Login form.
     2. Registration form.
+    
+**Requirements:**
+ * Java 8
+ * Dynamic and static salt.
+ * Strong Hashing algorithm.
+ * Spring security.
+ * JWT.
 
 
 •	Leveraging spring security for login page.
 •	Authentication - postgresql connectivity using user details service.
-• Authorization - Grantedroles for method level security.
+•   Authorization - Granted roles for method level security.
 
