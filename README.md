@@ -9,6 +9,7 @@ This repository will demostrate the login and user registration with spring secu
  * Strong Hashing algorithm.
  * Spring security.
  * JWT.
+ * Basic version of Angular JS.
 
 ***
 User interfaces:
@@ -29,6 +30,7 @@ Enhancements:
  1. Implementing additional feature to send OTP to user email/mobile. 
  2. Implementing additional feature captcha to avoid from abusing web applications from automated scripts, programs and bots.
  3. Implementing additional feature to add secret questions and answers to reset the password.
+ 4. Adding password policy in future.
  
  ***
  Links for reference:
