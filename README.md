@@ -29,3 +29,9 @@ Enhancements:
  1. Implementing additional feature to send OTP to user email/mobile. 
  2. Implementing additional feature captcha to avoid from abusing web applications from automated scripts, programs and bots.
  3. Implementing additional feature to add secret questions and answers to reset the password.
+ 
+ ***
+ Links for reference:
+ ----------------------
+ [Mitigating rainbow table with salt](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
+ [Best way to store the user password in the database](https://stackoverflow.com/questions/1054022/best-way-to-store-password-in-database).
